@@ -5,7 +5,8 @@
 		{
 			Titolo: 'TICKET',
 			Descrizione: 'Choose the best ticket based on your needs',
-			Bottone: 'Get them'
+			Bottone: 'Get them',
+			link: 'https://www.youtube.com/watch?v=BbeeuzU5Qc8'
 		},
 		{ Titolo: 'HOTEL', Descrizione: 'Choose the best hotel', Bottone: 'Book now' },
 		{
