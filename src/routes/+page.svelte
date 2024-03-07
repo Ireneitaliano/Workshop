@@ -8,16 +8,24 @@
 			Bottone: 'Get them',
 			link: 'https://www.youtube.com/watch?v=BbeeuzU5Qc8'
 		},
-		{ Titolo: 'HOTEL', Descrizione: 'Choose the best hotel', Bottone: 'Book now' },
+		{
+			Titolo: 'HOTEL',
+			Descrizione: 'Choose the best hotel',
+			Bottone: 'Book now',
+			link: 'https://www.youtube.com/watch?v=BbeeuzU5Qc8'
+		},
+
 		{
 			Titolo: 'TRANSPORT',
 			Descrizione: 'Discover all the possibilities to reach us',
-			Bottone: 'Come now'
+			Bottone: 'Come now',
+			link: 'https://www.youtube.com/watch?v=BbeeuzU5Qc8'
 		},
 		{
 			Titolo: 'ACTIVITIES',
 			Descrizione: 'Make your experience even more enjoyable',
-			Bottone: 'Enjoy'
+			Bottone: 'Enjoy',
+			Link: 'https://www.youtube.com/watch?v=BbeeuzU5Qc8'
 		}
 	];
 </script>
