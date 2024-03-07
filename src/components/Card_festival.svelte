@@ -15,7 +15,7 @@
 <style>
 	.card_festival {
 		background-color: #000;
-		width: fit-content;
+		width: 163 px;
 		border-radius: 20px;
 		padding: 10px;
 		color: #14ff00;
