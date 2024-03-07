@@ -8,7 +8,7 @@
 <div class="card_festival">
 	<p class="titolo">{Titolo}</p>
 	<p class="descrizione">{Descrizione}</p>
-	<a class="card_bottone" href={link}>
+	<a class="card_bottone" href={link} target="_blank">
 		<p class="bottone">{Bottone}</p>
 	</a>
 </div>

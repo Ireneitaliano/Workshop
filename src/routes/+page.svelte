@@ -35,5 +35,10 @@
 </svelte:head>
 
 {#each Cards as Card}
-	<Card_festival Titolo={Card.Titolo} Descrizione={Card.Descrizione} Bottone={Card.Bottone} />
+	<Card_festival
+		Titolo={Card.Titolo}
+		Descrizione={Card.Descrizione}
+		Bottone={Card.Bottone}
+		link={Card.link}
+	/>
 {/each}
